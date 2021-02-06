@@ -1,0 +1,9 @@
+.header {
+    color:white;
+    background-color: black;
+    
+}
+.header:hover{
+    background-color:lightgray;
+    color: black;
+}
